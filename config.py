@@ -14,12 +14,12 @@ ACCOUNTS_DIR.mkdir(exist_ok=True)
 LOGS_DIR.mkdir(exist_ok=True)
 
 # Telegram API credentials
-API_ID = '27526979'
-API_HASH = '10935ed5b4cd311382c67304b8b0ecf8'
-BOT_TOKEN = '8422542151:AAGfDukPL-8Fwxo3GBjr5r_yZ_crhtVQC9Y'
+API_ID = 'id'
+API_HASH = 'hash'
+BOT_TOKEN = 'tok'
 
 # Admin settings
-ADMIN_USER_ID = 8201876232
+ADMIN_USER_ID = id
 
 # Default message settings
 DEFAULT_MIN_INTERVAL = 30  # minutes
